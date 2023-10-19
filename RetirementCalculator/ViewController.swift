@@ -35,8 +35,12 @@ class ViewController: UIViewController {
     }
 
     @IBAction func calculateButton_TouchUpInside(_ sender: Any) {
-//        Crashes.generateTestCrash()
-        Analytics.trackEvent("calculate_retirement_amount")
+        let currentAge: Int? = Int(ageTextField.text!)
+        let plannedRetirementAge: Int? = Int(retirementAgeTextField.text!)
+        let properties = ["current_age": String(currentAge!),
+                          "planned_retirement_age": String(plannedRetirementAge!)]
+        
+        Analytics.trackEvent("calculate_retirement_amount", withProperties: properties)
     }
     
 }
