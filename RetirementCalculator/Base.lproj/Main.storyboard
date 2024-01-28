@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="I0o-No-0XB">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="I0o-No-0XB">
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -59,12 +60,19 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Test" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EiY-9g-J2f">
+                                <rect key="frame" x="180" y="415.66666666666669" width="33" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="VNd-iS-FGA"/>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="gxj-8L-vRH" firstAttribute="top" secondItem="6Em-jy-YWg" secondAttribute="bottom" constant="8" id="3Ma-WR-wwJ"/>
                             <constraint firstItem="VNd-iS-FGA" firstAttribute="trailing" secondItem="c0j-yN-bDm" secondAttribute="trailing" constant="20" id="4G5-SI-zM8"/>
+                            <constraint firstItem="EiY-9g-J2f" firstAttribute="centerX" secondItem="Xci-me-k8f" secondAttribute="centerX" id="6EJ-ny-uZb"/>
                             <constraint firstItem="VNd-iS-FGA" firstAttribute="trailing" secondItem="gxj-8L-vRH" secondAttribute="trailing" constant="20" id="BVR-oX-Vez"/>
                             <constraint firstItem="6Em-jy-YWg" firstAttribute="top" secondItem="kkd-mV-8Qc" secondAttribute="bottom" constant="8" id="Cew-kJ-30l"/>
                             <constraint firstItem="50j-36-IC2" firstAttribute="top" secondItem="gxj-8L-vRH" secondAttribute="bottom" constant="8" id="EAu-pe-ZWf"/>
@@ -80,6 +88,7 @@
                             <constraint firstItem="6Em-jy-YWg" firstAttribute="leading" secondItem="VNd-iS-FGA" secondAttribute="leading" constant="20" id="hEM-KW-Aso"/>
                             <constraint firstItem="VNd-iS-FGA" firstAttribute="trailing" secondItem="kkd-mV-8Qc" secondAttribute="trailing" constant="20" id="kvB-Xw-73f"/>
                             <constraint firstItem="VNd-iS-FGA" firstAttribute="trailing" secondItem="oHa-Kj-ZJA" secondAttribute="trailing" constant="20" id="mof-kZ-zaB"/>
+                            <constraint firstItem="EiY-9g-J2f" firstAttribute="centerY" secondItem="Xci-me-k8f" secondAttribute="centerY" id="uBq-I6-Dxb"/>
                             <constraint firstItem="VNd-iS-FGA" firstAttribute="trailing" secondItem="6Em-jy-YWg" secondAttribute="trailing" constant="20" id="uTc-cP-e36"/>
                             <constraint firstItem="eU7-HW-Eaj" firstAttribute="top" secondItem="50j-36-IC2" secondAttribute="bottom" constant="8" id="ugB-7c-t4O"/>
                             <constraint firstItem="oHa-Kj-ZJA" firstAttribute="leading" secondItem="VNd-iS-FGA" secondAttribute="leading" constant="20" id="wKj-hn-ETY"/>
