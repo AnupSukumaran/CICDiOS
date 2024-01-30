@@ -1,0 +1,77 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8e07a308bce36d342d9d6593cc05e9bf943f2cde3a895d02f9490d7129d4d526"
+    },
+    {
+      "guid" : "8e07a308bce36d342d9d6593cc05e9bf8047bd93938cb8d8104aa781e0fc1a06"
+    },
+    {
+      "guid" : "8e07a308bce36d342d9d6593cc05e9bf565f392fa87b98ef2ef5d079a35e13d6"
+    }
+  ],
+  "containerPath" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/RetirementCalculator.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphoneos17.2"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/ProfileData",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "80",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

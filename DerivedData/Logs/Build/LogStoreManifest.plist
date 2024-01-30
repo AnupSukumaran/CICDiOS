@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>F4B6B99F-1EE1-452E-917D-BFF22C2C4234</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4B6B99F-1EE1-452E-917D-BFF22C2C4234.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RetirementCalculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RetirementCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace RetirementCalculator for testing with scheme RetirementCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>728290854.63982797</real>
+			<key>timeStoppedRecording</key>
+			<real>728290872.69816601</real>
+			<key>title</key>
+			<string>Building workspace RetirementCalculator for testing with scheme RetirementCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>F4B6B99F-1EE1-452E-917D-BFF22C2C4234</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
