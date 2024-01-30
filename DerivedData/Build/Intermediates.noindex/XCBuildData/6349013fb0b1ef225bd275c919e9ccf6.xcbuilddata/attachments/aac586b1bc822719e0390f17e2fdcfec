@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests-master.dia",
+    "emit-module-dependencies" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests-master.swiftdeps"
+  },
+  "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/RetirementCalculatorUITests/RetirementCalculatorUITests.swift" : {
+    "const-values" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests.swiftconstvalues",
+    "dependencies" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests.d",
+    "diagnostics" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests.dia",
+    "index-unit-output-path" : "/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests.o",
+    "llvm-bc" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests.bc",
+    "object" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests.o",
+    "swift-dependencies" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests.swiftdeps",
+    "swiftmodule" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITests~partial.swiftmodule"
+  },
+  "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/RetirementCalculatorUITests/RetirementCalculatorUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITestsLaunchTests.d",
+    "diagnostics" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITestsLaunchTests.bc",
+    "object" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/sukumar.sukumaran/Documents/SwiftTuts/RetirementCalculator/DerivedData/Build/Intermediates.noindex/RetirementCalculator.build/Debug-iphoneos/RetirementCalculatorUITests.build/Objects-normal/arm64/RetirementCalculatorUITestsLaunchTests~partial.swiftmodule"
+  }
+}

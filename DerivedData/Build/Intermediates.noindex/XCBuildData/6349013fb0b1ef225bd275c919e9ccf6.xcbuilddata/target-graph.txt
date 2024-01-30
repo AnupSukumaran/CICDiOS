@@ -1,0 +1,16 @@
+Target dependency graph (7 targets)
+Target 'RetirementCalculatorUITests' in project 'RetirementCalculator'
+➜ Explicit dependency on target 'RetirementCalculator' in project 'RetirementCalculator'
+➜ Implicit dependency on target 'Pods-RetirementCalculator-RetirementCalculatorUITests' in project 'Pods' via file 'Pods_RetirementCalculator_RetirementCalculatorUITests.framework' in build phase 'Link Binary'
+Target 'Pods-RetirementCalculator-RetirementCalculatorUITests' in project 'Pods'
+➜ Explicit dependency on target 'AppCenter' in project 'Pods'
+Target 'RetirementCalculatorTests' in project 'RetirementCalculator'
+➜ Explicit dependency on target 'RetirementCalculator' in project 'RetirementCalculator'
+➜ Implicit dependency on target 'Pods-RetirementCalculatorTests' in project 'Pods' via file 'Pods_RetirementCalculatorTests.framework' in build phase 'Link Binary'
+Target 'Pods-RetirementCalculatorTests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-RetirementCalculator' in project 'Pods'
+Target 'RetirementCalculator' in project 'RetirementCalculator'
+➜ Implicit dependency on target 'Pods-RetirementCalculator' in project 'Pods' via file 'Pods_RetirementCalculator.framework' in build phase 'Link Binary'
+Target 'Pods-RetirementCalculator' in project 'Pods'
+➜ Explicit dependency on target 'AppCenter' in project 'Pods'
+Target 'AppCenter' in project 'Pods' (no dependencies)
